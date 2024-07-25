@@ -1,4 +1,10 @@
-<h2 align="left">Hi, my name is Carlos Aragon! Welcome to my front-end development journey.</h2>
+<div align="center">
+  <h2>
+    Hi, my name is Carlos Aragon
+    <br>
+    Welcome to my front-end development journey.
+  </h2>
+</div>
 
 ###
 

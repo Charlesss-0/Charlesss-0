@@ -2,7 +2,7 @@
   <h2>
     Hi, my name is Carlos Aragon
     <br>
-    Welcome to my web development journey.
+    Welcome to my Web Development journey.
   </h2>
 </div>
 

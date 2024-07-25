@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Carlos Aragon and I'm a Front-end Web Developer</h2>
+<h2 align="left">Hi, my name is Carlos Aragon! Welcome to my front-end development journey.</h2>
 
 ###
 

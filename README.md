@@ -76,5 +76,3 @@ I'm a Full-Stack Developer with expertise in JavaScript, TypeScript, and modern 
 ## Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)
-
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDV1ZmlvYm8zZGw1MTk4em5jODAyMHdwdHR5ZmV6dzYwbW5haG1wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpSc0bp7LmGC4/giphy.gif)

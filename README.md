@@ -31,7 +31,6 @@ I'm a Full-Stack Developer with expertise in JavaScript, TypeScript, and modern 
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
     <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </span>
 
 ### Backend
@@ -51,6 +50,7 @@ I'm a Full-Stack Developer with expertise in JavaScript, TypeScript, and modern 
 ### Development Tools
 
 <span>
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white" />
     <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
@@ -67,12 +67,14 @@ I'm a Full-Stack Developer with expertise in JavaScript, TypeScript, and modern 
 <h2 align="start">Stats</h2>
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=Charlesss-0&theme=tokyonight&hide_border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesss-0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesss-0&theme=tokyonight&include_all_commits=false&count_private=false&layout=compact&hide_border=true)
 
 ## Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Charlesss-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Charlesss-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+
+## Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true)
+
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDV1ZmlvYm8zZGw1MTk4em5jODAyMHdwdHR5ZmV6dzYwbW5haG1wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpSc0bp7LmGC4/giphy.gif)

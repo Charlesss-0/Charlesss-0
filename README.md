@@ -64,7 +64,7 @@ I'm a Full-Stack Developer with expertise in JavaScript, TypeScript, and modern 
 <h2 align="start">Stats</h2>
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=Charlesss-0&theme=tokyonight&hide_border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesss-0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesss-0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Random Dev Quote
 

@@ -4,7 +4,7 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
 
-**I'm a Full-Stack Developer with expertise in JavaScript, TypeScript, and modern frameworks like React and Next.js. I'm passionate about building scalable and maintainable applications, and I love exploring new technologies and libraries.**
+**I'm a Full-Stack Web Developer with expertise in JavaScript, TypeScript, and modern frameworks like React and Next.js. I'm passionate about building scalable and maintainable applications, and I love exploring new technologies and libraries.**
 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>

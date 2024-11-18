@@ -7,6 +7,8 @@
 **I'm a Full-Stack Web Developer with expertise in JavaScript, TypeScript, and modern frameworks like React and Next.js. I'm passionate about building scalable and maintainable applications, and I love exploring new technologies and libraries.**
 
 - 👯 I’m looking forward to collaborate on open source projects.
+- 🌱 I’m currently learning:
+  - **Golang**
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, I ❤️ playing 🎮 videogames, 🎵 listening to music, and 🎧 watching documentaries.
 - 📫 Reach out to me at: <a href="aragonaugusto24@gmail.com">aragonaugusto24@gmail.com</a>
